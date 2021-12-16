@@ -1,2 +1,3 @@
-# homepage
-My very own personal website. Basically this is just a résumé
+[demo-cv](https://skirnevskyialeksandr.github.io/CV/)
+
+![my cv - picture](./img/cv.png)
